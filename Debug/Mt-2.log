@@ -1,0 +1,27 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  3D-Template.cpp
+d:\mt-2\mt-2\camera.h(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\mt-2\mt-2\camera.h(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\mt-2\mt-2\camera.h(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\mt-2\mt-2\camera.h(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\mt-2\mt-2\camera.h(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\mt-2\mt-2\lightsource.h(56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\mt-2\mt-2\obj_loader.h(654): warning C4018: '<': signed/unsigned mismatch
+d:\mt-2\mt-2\obj_loader.h(691): warning C4018: '<': signed/unsigned mismatch
+d:\mt-2\mt-2\obj_loader.h(697): warning C4018: '<': signed/unsigned mismatch
+d:\mt-2\mt-2\obj_loader.h(951): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\mt-2\mt-2\model.h(41): warning C4018: '<': signed/unsigned mismatch
+d:\mt-2\mt-2\model.h(57): warning C4018: '<': signed/unsigned mismatch
+d:\mt-2\mt-2\model.h(71): warning C4018: '<': signed/unsigned mismatch
+d:\mt-2\mt-2\3d-template.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\mt-2\mt-2\3d-template.cpp(55): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\mt-2\mt-2\3d-template.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\mt-2\mt-2\3d-template.cpp(129): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\mt-2\mt-2\3d-template.cpp(146): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\mt-2\mt-2\3d-template.cpp(400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\mt-2\mt-2\3d-template.cpp(404): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\mt-2\mt-2\3d-template.cpp(449): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\mt-2\mt-2\3d-template.cpp(458): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Mt-2.vcxproj -> D:\Mt-2\Debug\Mt-2.exe
